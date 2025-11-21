@@ -41,3 +41,4 @@ The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/5011000
 - RED2024-153680-T/MICIU/AEI/. ![plot](https://github.com/spatialstatisticsupna/Prior_Smoothing/blob/main/micin-aei.jpg)
 
 # References <a name="Ref"/>
+
