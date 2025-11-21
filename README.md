@@ -10,7 +10,7 @@ This repository contains the R code to fit in INLA the code to replicate and rep
 3.  [Acknowledgements](#Acknowledgements)
 4.  [References](#Ref)
 
-# Data <a name="Data"/> {#Data}
+# Data <a name="Data"/> 
 
 This folder contains the datasets and cartography files used to validate the models presented in the work.
 
@@ -22,7 +22,7 @@ This folder contains the datasets and cartography files used to validate the mod
 
 -   `Information_missing_areas.Rdata`: This dataset includes the information for the selected missing areas, which is required to produce the figures presented in the paper.
 
-# R code <a name="Rcode"/> {#Rcode}
+# R code <a name="Rcode"/>
 
 This folder contains the R code to replicate and reproduce the model validation results presented in the paper.
 
@@ -35,11 +35,12 @@ This folder contains the R code to replicate and reproduce the model validation 
 -   `Results_National_BestModels.R`: Code used to produce the tables in section 5 of the paper.
 
 
-# Acknowledgements <a name="Acknowledgements"/> {#acknowledgements}
+# Acknowledgements <a name="Acknowledgements"/>
 
 The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/501100011033, Ayudas Predoctorales Santander UPNA 2021-2022 and BIOSTATNET - PROYECTOS REDES DE INVESTIGACIÓN 2024
 - RED2024-153680-T/MICIU/AEI/. ![plot](https://github.com/spatialstatisticsupna/Prior_Smoothing/blob/main/micin-aei.jpg)
 
 # References <a name="Ref"/>
+
 
 
