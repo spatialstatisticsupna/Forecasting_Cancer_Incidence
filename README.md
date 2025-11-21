@@ -10,7 +10,7 @@ This repository contains the R code to fit in INLA the code to replicate and rep
 3.  [Acknowledgements](#Acknowledgements)
 4.  [References](#Ref)
 
-# Data <a name="Data"/> {#data}
+# Data <a name="Data"/> {#Data}
 
 This folder contains the datasets and cartography files used to validate the models presented in the work.
 
@@ -41,4 +41,5 @@ The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/5011000
 - RED2024-153680-T/MICIU/AEI/. ![plot](https://github.com/spatialstatisticsupna/Prior_Smoothing/blob/main/micin-aei.jpg)
 
 # References <a name="Ref"/>
+
 
