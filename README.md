@@ -41,7 +41,8 @@ The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/5011000
 - RED2024-153680-T/MICIU/AEI/. ![plot](https://github.com/spatialstatisticsupna/Prior_Smoothing/blob/main/micin-aei.jpg)
 
 # References <a name="Ref"/>
-Retegui, G., Etxeberria, J. and Ugarte, M.D. (2025).Multivariate spatio-temporal modelling for completing cancer registries and forecasting incidence. 
+[Retegui, G., Etxeberria, J. and Ugarte, M.D. (2025).Multivariate spatio-temporal modelling for completing cancer registries and forecasting incidence. *Spatial Statistics*, in press]( https://doi.org/10.1016/j.spasta.2025.100944).
 
+ 
 
 
