@@ -2,6 +2,8 @@
 # Multivariate Spatio-temporal Modelling for Completing Cancer Registries and Forecasting Incidence
 
 This repository contains the R code to fit in INLA the code to replicate and reproduce the model validation results of the paper entitled "Multivariate Spatio-temporal Modelling for Completing Cancer Registries and Forecasting Incidence" [Retegui et al., 2025](https://doi.org/10.1016/j.spasta.2025.100944).
+
+The results of the models presented in this paper were obtained using the R-INLA stable version 22.11.16.
  
 
 ## Table of contents
@@ -45,6 +47,7 @@ The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/5011000
 [Retegui, G., Etxeberria, J. and Ugarte, M.D. (2025).Multivariate spatio-temporal modelling for completing cancer registries and forecasting incidence. *Spatial Statistics*, in press]( https://doi.org/10.1016/j.spasta.2025.100944).
 
  
+
 
 
 
