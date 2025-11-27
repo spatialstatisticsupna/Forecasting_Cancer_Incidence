@@ -7,7 +7,7 @@
 ## graph for INLA         ##
 ########################################
 library("spdep")
-carto <- st_read("../Data/carto_england.shp")
+carto <- st_read("../Data/Carto_England/carto_england.shp")
 carto <- carto[order(carto$Code), ]
 
 ## Transform 'SpatialPolygonsDataFrame' object to 'sf' class ##
@@ -26,7 +26,7 @@ plot(g, "neato")
 ########################################
 t.from <- 2001 #first year
 t.last <- 2019 #last year
-t.to <- 2019 #first crossvalidation year
+t.to <- 2014 #first crossvalidation year
 
 years.ahead <- 3
 
@@ -73,6 +73,7 @@ repeat{
                     rep(ID_area+n, each = t))
   data$ID_unst <- c(rep(NA,n*t),rep(ID_area,each = t))
   
+  data$ID_year <- c(rep(1:t,n),rep(1:t,n))
   data$ID_year1 <- c(rep(1:t,n),rep(NA,each=n*t))
   data$ID_year2 <- c(rep(NA,each=n*t),rep(1:t,n))
   
